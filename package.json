@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/brandonhorst/node-tray",
   "dependencies": {
-    "NodObjC": "^1.0.0"
+    "nodobjc": "^2.1.0"
   },
   "peerDependences": {
     "native-app": "^1.0.1"
